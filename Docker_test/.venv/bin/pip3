@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/omar_d/py/docker_test/RESTful API/.venv/bin/python3" "$0" "$@"
-' '''
+#!/home/omar_d/py/docker_test/Docker_test/.venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
